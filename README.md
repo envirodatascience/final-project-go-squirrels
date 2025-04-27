@@ -5,7 +5,7 @@ Specifically, we are going to analyze a set of subquestions:
 (3) Does the weather affect squirrel behavior? Or the number of squirrels seen in a day?
 (4) Is there a difference in squirrel distribution based on how busy an area of Central Park is?
 
-Data Desciptions:
+Data Descriptions:
 *   2018 Central Park Squirrel Census - Squirrel Data from [NYC open data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data). This data set provides the first official count of Central Park's squirrel population. In October 2018, 323 volunteers went out over 11 days to count the number of squirrels in an assigned hectare. "This table contains squirrel data for each of the 3,023 sightings, including location coordinates, age, primary and secondary fur color, elevation, activities, communications, and interactions between squirrels and with humans."
 
 *   2018 Central Park Squirrel Census - Hectare Data from [Data.gov data catalog](https://catalog.data.gov/dataset/2018-central-park-squirrel-census-hectare-data). "This table contains environmental data related to each of the 350 “countable” hectares of Central Park. Examples include weather, litter, animals sighted, and human density."
